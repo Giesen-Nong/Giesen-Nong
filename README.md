@@ -12,7 +12,7 @@
 
 ## 
 
-<img width="450px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Giesen-Nong&count_private=true&show_icons=true"/>        <img width="450px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giesen-Nong&layout=compact"/>
+<img width="400px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Giesen-Nong&count_private=true&show_icons=true"/>        <img width="400px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giesen-Nong&layout=compact"/>
 
 
 
