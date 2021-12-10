@@ -12,7 +12,8 @@
 
 ## 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Giesen-Nong" alt="插入图片描述" style="zoom:80%;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giesen-Nong&layout=compact" alt="插入图片描述" style="zoom: 111%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Giesen-Nong" alt="插入图片描述"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giesen-Nong&layout=compact" alt="插入图片描述" />
 
 
 
