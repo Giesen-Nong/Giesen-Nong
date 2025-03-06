@@ -2,14 +2,6 @@
 
 ## ⛧ Giesen-Nong
 
-🏫 就读于浙江工业大学
-
-🕮  计算机科学与技术专业
-
- ☐   向着大厂努力的代码人 
-
-🔧 代码是工作		🏀 篮球是生活 		🎮︎ 摸鱼是享受
-
 ## 
 
 <img width="410px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Giesen-Nong&count_private=true&show_icons=true"/>        <img width="410px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giesen-Nong&layout=compact"/>
