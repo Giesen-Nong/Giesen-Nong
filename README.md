@@ -18,4 +18,4 @@
 
 ## ✉ Connect with Me
 
-<a href="mailto:XSheng@xszone.top"><img alt="Email" src="https://img.shields.io/badge/Email-XSheng@xszone.top-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:Giesen_Nong@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-XSheng@xszone.top-blue?style=flat-square&logo=gmail"></a>
